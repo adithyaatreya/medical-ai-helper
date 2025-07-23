@@ -14,12 +14,6 @@ LangChain: For seamless integration of retrieval-based question answering.
 FAISS: For efficient vector search and indexing.
 Google PaLM: For natural language understanding and response generation.
 Data Handling: HuggingFace Embeddings, CSVLoader
-Installation and Setup
-Clone the repository:
-
-git clone https://github.com/faisalali1234567/AI-Medical-Helper.git  
-cd AI-Medical-Helper  
-Install the required dependencies:
 
 pip install -r requirements.txt  
 Add your environment variables in a .env file:
@@ -41,13 +35,9 @@ Watch the platform in action:
 Google Drive Demo Link
 
 Team Members
+**Adithya Atreya GR**
 Faisal Ali
-Email: faisalstory123@gmail.com
-Phone: 9535135109
-
 Shameer K
-
-Adithya Atreya GK
 
 Future Scope
 Expanding the dataset to include more diseases and treatments.
